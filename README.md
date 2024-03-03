@@ -1,14 +1,14 @@
 <h1>Nodejs API with mongoDB</h1>
 <p>This is a rest api  for creating ,finding students  for a school.</p>
-## Installation
+<h1> Installation </h1>
 1.clone repository
-### https://github.com/jenifferakinyi/StudentApi
+`git clone https://github.com/jenifferakinyi/StudentApi`
 2.install dependancies
-### cd NODE <br>
-    npm install
+`cd NODE ` <br>
+`npm install`
 3.Build and run project
-### npm start
-4.Navigate to ###http://localhost:4000
+`npm start`
+4.Navigate to: `http://localhost:4000`
 <h1>Project Structure</h1>
 <table>
 <tr>
