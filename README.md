@@ -21,7 +21,7 @@ npm Start
 ```
 ### Navigate to: http://localhost:4000
 
-## Project Structure</h1>
+# Project Structure</h1>
 <table>
 <tr>
 <th>Name</th>
